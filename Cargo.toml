@@ -1,0 +1,21 @@
+[package]
+name = "lets-get-interdisciplinary"
+version = "0.1.0"
+edition = "2021"
+authors = ["Tim Janus"]
+description = "Some example code regarding builder and typestate design pattern in context of distillation columns. Part of the Talk 'Lets get Interdiscpilinary - Rust Design Patterns for Chemical Plants' on RustNation 2024"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "rust_design_patterns"
+path = "src/lib.rs"
+
+[[example]]
+name = "01"
+path = "src/01_builder_column.rs"
+
+
+[[example]]
+name = "02"
+path = "src/02_typestate_column.rs"
