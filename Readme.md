@@ -2,12 +2,13 @@
 
 This git Repository contains Example-Code used in the talk "Let's get Interdisciplinary - Rust Design Patterns for Chemical Plants" on RustNation UK 2024 (2024-03-28). Beside that, the Readme acts as a small handout/summary of the presentation. 
 
-**RECORDING TBA (to be announced)**.
+- [1st Part: Rust Design Patterns - Builder & Type-State Pattern](https://youtu.be/R6QpajjgNrQ?t=4)
+- [2nd Part: Decomposing and Discussion of the Visitor Pattern](https://youtu.be/R6QpajjgNrQ?t=1792)
 
 If you enjoyed the talk and want to checkout the mentioned additional materials:
 
-- Video Series - Pragmatic Rust for Engineers
-- Blog Post - The Haber-Bosch Process: Revolutionizing Agriculture and Industry
+- [1st Video - Pragmatic Rust for Engineers](https://youtu.be/K2t2Krsvm9s)
+- [Blog Post - The Haber-Bosch Process: Revolutionizing Agriculture and Industry](https://janus.rs/en/2023/12/the-haber-bosch-process-revolutionizing-agriculture-and-industry/)
 
 ## What are Design Patterns?
 
